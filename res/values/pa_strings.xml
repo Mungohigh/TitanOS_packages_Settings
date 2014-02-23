@@ -151,6 +151,6 @@
     <string name="security_maximize_widgets_title">Maximize widgets</string>
 
     <!--PA version-->
-    <string name="pa_version">ParanoidAndroid version</string>
+    <string name="pa_version">TitanOS version</string>
     <string name="pa_version_default">Unknown</string>
 </resources>
